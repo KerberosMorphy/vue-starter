@@ -1,6 +1,13 @@
 # vue-starter
 
-Kit de départ préconfiguré incluant [VueJS](https://github.com/vuejs/vue), [Babel](https://babeljs.io/), [Webpack](https://webpack.js.org/) et [ESLint](https://eslint.org/) pour le cours GLO-3102.
+Kit de départ préconfiguré incluant :
+- [VueJS](https://github.com/vuejs/vue), 
+- [Babel](https://babeljs.io/), 
+- [Webpack](https://webpack.js.org/), 
+- [ESLint](https://eslint.org/), 
+- [TinyMCE](https://github.com/tinymce/tinymce-vue), 
+- [Vuex](https://vuex.vuejs.org/),
+- [Vue Router](https://router.vuejs.org/).
 
 ## Prérequis
 - Git [Windows](http://www.git-scm.com/book/en/Getting-Started-Installing-Git#Installing-on-Windows), [Mac](http://www.git-scm.com/book/en/Getting-Started-Installing-Git#Installing-on-Mac), [Linux](http://www.git-scm.com/book/en/Getting-Started-Installing-Git#Installing-on-Linux)
@@ -28,16 +35,12 @@ npm install
 npm start
 ```
 
-## Livrable 1
-Faites vos modifications aux fichiers `Album.vue`, `Artist.vue`, `Home.vue` et `Navigation.vue`. Ajoutez votre HTML dans la balise `<template>` et votre CSS dans la balise `<style>` de chacun des components.
-
-## Livrable 2-3
-Libre à vous de modifier la structure des fichiers.
-
-
 ## Notes
 ### Vue
 Ce projet a été généré avec [vue-cli](https://github.com/vuejs/vue-cli) en suivant le template webpack. Voir le [guide](http://vuejs-templates.github.io/webpack/) et la [documentation de vue-loader](http://vuejs.github.io/vue-loader) pour plus de détails.
 
 ### ESLint
 ESLint est configuré afin de respecter un certain standard de code à travers votre équipe. Il est basé sur la [configuration airbnb](https://github.com/airbnb/javascript) qui rassemble les règles de base populaires. Libre à vous de modifier cette configuration via `.eslintrc.js`.
+
+## Référence
+Ce kit de départ a été conçu par [Vincent Séguin](https://github.com/vseguin) et [William Fortin](https://github.com/wfortin) pour le cours [GLO-3102](https://github.com/GLO3102) et modifier par [Benoit Verret](https://github.com/KerberosMorphy) pour en faire une version générique.
