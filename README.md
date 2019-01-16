@@ -7,7 +7,8 @@ Kit de départ préconfiguré incluant :
 - [ESLint](https://eslint.org/), 
 - [TinyMCE](https://github.com/tinymce/tinymce-vue), 
 - [Vuex](https://vuex.vuejs.org/),
-- [Vue Router](https://router.vuejs.org/).
+- [Vue Router](https://router.vuejs.org/),
+- [Bootstrap](https://bootstrap-vue.js.org/).
 
 ## Prérequis
 - Git [Windows](http://www.git-scm.com/book/en/Getting-Started-Installing-Git#Installing-on-Windows), [Mac](http://www.git-scm.com/book/en/Getting-Started-Installing-Git#Installing-on-Mac), [Linux](http://www.git-scm.com/book/en/Getting-Started-Installing-Git#Installing-on-Linux)
